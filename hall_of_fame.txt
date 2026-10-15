@@ -1,0 +1,1 @@
+the hero's name is sam with score 50. He survived.
